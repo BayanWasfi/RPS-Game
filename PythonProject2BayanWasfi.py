@@ -65,8 +65,7 @@ class CyclePlayer(Player):
         return user_input
 
 
-# This subclass that ask the user to choose an option,
-# also validate user input
+# This subclass that ask the user to choose an option, also validate user input
 class HumanPlayer(Player):
 
     def move(self):
