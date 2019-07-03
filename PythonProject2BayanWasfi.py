@@ -86,6 +86,7 @@ class HumanPlayer(Player):
 
 
 # The game controller, where it control the game and number of rounds
+# it also give the option of exiting the game at any time
 class Game():
 
     def __init__(self, p2):
