@@ -176,7 +176,7 @@ if __name__ == '__main__':
             else:
                 print('Not valid input, please enter from 1 to 4: ')
 
-    # Create a game object
+    # Create a game object and quit function is also available
         g = Game(p2)
         g.play_game()
         while True:
