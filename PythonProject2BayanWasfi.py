@@ -26,7 +26,7 @@ class RandomPlayer(Player):
         return (user_input)
 
 
-# Subclass ReflectPlayer that remembers what move opponent played last round
+# Subclass ReflectPlayer that remembers what move opponent played last round.
 class ReflectPlayer(Player):
 
     def __init__(self):
