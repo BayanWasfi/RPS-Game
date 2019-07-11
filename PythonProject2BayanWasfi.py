@@ -2,7 +2,7 @@ import random
 import sys
 from termcolor import colored
 import time
-# Here were the type moves rock, paper and scissors
+# Here were the type moves rock, paper and scissors.
 moves = ['rock', 'paper', 'scissors']
 
 
