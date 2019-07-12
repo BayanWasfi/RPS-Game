@@ -6,7 +6,7 @@ import time
 moves = ['rock', 'paper', 'scissors']
 
 
-# Parent class always plays rock and learn move
+# Parent class always plays rock and learn move.
 class Player():
 
     def __init__(self):
